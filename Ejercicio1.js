@@ -1,5 +1,3 @@
-// 1. Crear una función que reciba un array de objetos y devuelva solo los nombres. 
-
 const obtenNombres = (array) => {
     return array.map(obj => obj.nombre);
 }
